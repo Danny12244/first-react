@@ -1,0 +1,40 @@
+.class {
+    background-color: grey;
+    height:50px;
+    padding:10px;
+    color:white;
+    
+}
+
+.fle{
+    display:flex;
+    text-align:center;
+    justify-content:space-evenly;
+}
+
+.wdt{
+    width:300px;
+}
+.txt{
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+}
+
+.brd{
+    border:1px solid black;
+}
+h3{
+    font-size:30px;
+    text-align:center;
+    /* border:1px solid black; */
+    width:200px;height:50px;margin-top:0px;
+}
+.btn{
+    border-radius: 22px;
+    background-color:teal;
+    border:none;
+    width:120px;
+    font-size:20px;
+    color:white;
+}

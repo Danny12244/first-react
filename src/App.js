@@ -1,12 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Card from './components/Static'
+import Card from './components/Static';
+import Navbar from './components/navbar'
 
 function App() {
-  return (
+  return (<>
+    <Navbar/>
     <div >
       <Card/>
-    </div>
+    </div></>
   );
 }
 
